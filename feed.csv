@@ -7,3 +7,5 @@
 ## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.custom1,entity.custom2,entity.custom3,entity.custom4,entity.custom5,entity.custom6,entity.custom7,entity.custom8,entity.custom9,entity.custom10,...
 k1ccou,tech1,"men,men:shirts",,/img/1.png,29.5,/img,200,11.8,3.2,,,,,,,,,,
 matcou,tech2,"men,men:shirts",,/img/2.png,19.5,/img,300,2.5,3.6,,,,,,,,,,
+k1ccou2,tech3,"men,men:shirts",,/img/3.png,9.5,/img,400,-6.8,4,,,,,,,,,,
+matcou3,tech4,"men,men:shirts",,/img/4.png,22.5,/img,500,-16.1,4.4,,,,,,,,,,
